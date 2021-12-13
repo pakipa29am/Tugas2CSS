@@ -1,0 +1,17 @@
+h1 {
+    text-transform: capitalize;
+}
+.p_pertama {
+    text-align: justify;
+}
+#p_kedua {
+    text-decoration: underline;
+}
+* {
+    color: white;
+    background-color: green;
+}
+.p_keempat,
+.p_ketiga {
+    text-align: center;
+}
